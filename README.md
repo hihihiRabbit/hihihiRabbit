@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hihihiRabbit
-- 👀 My dream is to become a great Java coder and join ByteDance! Actually,I like money more.
-- 🌱 I’m currently learning ES.
+- 👀 My dream is to become both a great coder and a great athlete.
+- 🚀 Programming Languages: Java, C++, Python, Go
 
 
 <!---
